@@ -1,10 +1,10 @@
-# milestones
+# Milestones (2)
 ## Google Code-In - 2017
  Completed 6 tasks
  
  Rewards -
  
- # Google Code-In T-Shirt
+ ## Google Code-In T-Shirt
  Organizations Worked For - 
    1. FOSSASIA
      * Open Event Server: Bug Hunt, Find a Bug
