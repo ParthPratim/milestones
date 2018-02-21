@@ -1,10 +1,12 @@
 # milestones
 ## Google Code-In - 2017
-   Completed 6 tasks
-   Organizations Worked For - 
-    1. FOSSASIA
+ Completed 6 tasks
+ Organizations Worked For - 
+   1. FOSSASIA
      * Open Event Server: Bug Hunt, Find a Bug
+     
      * SUSI.AI: Deploy SUSI Server on Heroku
+     
      * Flask/Python: Create a Flask app with a Simple Form
 
    2. CCExtractor Development
